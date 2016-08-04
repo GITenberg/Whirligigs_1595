@@ -1,0 +1,35 @@
+_repo: Whirligigs_1595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The world and the door -- The theory and the hound -- The hypotheses
+  of failure -- Calloway's code -- A matter of mean elevation -- "Girl" -- Sociology
+  in serge and straw -- The ransom of Red Chief -- The marry month of May -- A technical
+  error -- Suite homes and their romance -- The whirligig of life -- A sacrifice hit
+  -- The roads we take -- A blackjack bargainer -- The song and the sergeant -- One
+  dollar's worth -- A newspaper story -- Tommy's burglar -- A chaparral Christmas
+  gift -- A little local colour -- Georgia's ruling -- Blind man's holiday -- Madame
+  Bo-Peep, of the ranches.
+title: Whirligigs
+url: http://www.gutenberg.org/ebooks/1595
